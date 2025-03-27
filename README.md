@@ -1,2 +1,2 @@
 # MYSQL-projects
-MYSQL Project Repository
+MYSQL Project Repository contains a comprehensive MYSQL projects, showcasing a robust database design and implementation
