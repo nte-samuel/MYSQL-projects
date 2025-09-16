@@ -4,7 +4,7 @@
 This project focuses on cleaning and preparing a dataset of the Most Watched Anime using MySQL. The raw dataset contained inconsistencies, duplicates, and missing values that were handled systematically through SQL queries. The goal was to transform the raw data into a structured, reliable dataset ready for further analysis and visualization.
 # Queries 
 [Data cleaning project most watch anime.sql](https://github.com/nte-samuel/MYSQL-projects/blob/main/Data%20cleaning%20project%20most%20watch%20anime.sql)
-#🔑 Objectives
+## 🔑 Objectives
 
 Import and explore the raw anime dataset in MySQL.
 
@@ -38,3 +38,34 @@ Building future visual dashboards on anime viewership trends.
 ## 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a global layoffs dataset using MySQL. The goal was to uncover trends, patterns, and insights about layoffs across industries, companies, and countries. By leveraging SQL queries, the raw dataset was cleaned, explored, and analyzed to provide a data-driven understanding of worldwide layoff activities.
+https://github.com/nte-samuel/MYSQL-projects/blob/main/wolrd%20layoff's%20EDA.sql
+## 🔑 Objectives
+
+Import and structure the raw layoffs dataset in MySQL.
+
+Perform data cleaning (handle duplicates, missing values, and inconsistencies).
+
+Explore layoffs by company, industry, country, and year.
+
+Use SQL to uncover key patterns and prepare data for visualization.
+
+##📊 Key Insights
+
+Tech companies accounted for the largest share of global layoffs.
+
+Layoffs spiked in certain years, often correlating with economic downturns and global events.
+
+Startups and large corporations showed different layoff patterns in terms of scale and frequency.
+
+Some countries were disproportionately affected, especially those with large tech hubs.
+
+
+##📈 EDA Highlights
+
+Top companies with the highest layoffs.
+
+Industry-wise breakdown of workforce reductions.
+
+Country-level comparisons of layoff volumes.
+
+Year-over-year trends in global layoffs
