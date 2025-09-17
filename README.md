@@ -34,7 +34,7 @@ Comparing genres by watch count and ratings.
 
 Building future visual dashboards on anime viewership trends.
 
-#🌎 World Layoffs Exploratory Data Analysis (MySQL)
+# 🌎 World Layoffs Exploratory Data Analysis (MySQL)
 ## 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a global layoffs dataset using MySQL. The goal was to uncover trends, patterns, and insights about layoffs across industries, companies, and countries. By leveraging SQL queries, the raw dataset was cleaned, explored, and analyzed to provide a data-driven understanding of worldwide layoff activities.
@@ -49,7 +49,7 @@ Explore layoffs by company, industry, country, and year.
 
 Use SQL to uncover key patterns and prepare data for visualization.
 
-##📊 Key Insights
+## 📊 Key Insights
 
 Tech companies accounted for the largest share of global layoffs.
 
@@ -60,7 +60,7 @@ Startups and large corporations showed different layoff patterns in terms of sca
 Some countries were disproportionately affected, especially those with large tech hubs.
 
 
-##📈 EDA Highlights
+## 📈 EDA Highlights
 
 Top companies with the highest layoffs.
 
